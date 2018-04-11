@@ -2,6 +2,7 @@ zajêcia z GIT
 
 test konfliktu
 drugi commit
+trzeci commit
 
 Robert Rudnicki
 Robert Paszkowski
