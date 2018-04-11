@@ -4,3 +4,4 @@ test konfliktu
 drugi commit
 
 Robert Rudnicki
+Robert Paszkowski
