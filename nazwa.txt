@@ -6,5 +6,7 @@ trzeci commit
 
 tortoise test
 
+czwarty commit
+
 Robert Rudnicki
 Robert Paszkowski
