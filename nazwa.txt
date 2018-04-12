@@ -4,5 +4,7 @@ test konfliktu
 drugi commit
 trzeci commit
 
+tortoise test
+
 Robert Rudnicki
 Robert Paszkowski
